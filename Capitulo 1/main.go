@@ -38,3 +38,19 @@ s := fmt.Sprintf("%v %v %v", x, y, z)
 fmt.Println(s)
 
 }*/
+
+/*Exercise4
+type guide int;
+var x guide = 42;
+
+func main() {
+
+	fmt.Println(x)
+	fmt.Printf("%T\n", x)
+
+	guide := int(x)
+	fmt.Println(guide)
+
+
+}
+*/
